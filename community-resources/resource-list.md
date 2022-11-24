@@ -69,6 +69,7 @@ description: >-
 * [TLV shop](https://github.com/joostjager/tlvshop.com) - webshop with no browser, shopping cart, checkout page, nor credit card required
 * [LightningStamp](https://lightningstamp.bitcoinproof.org) - create timestamped proofs of existence for your files (OpentimeStamps or Chainpoint)
 * [Mash](https://getmash.com) - monetize your apps by integrating an open consumer lightning wallet, paywalls, and payment faciliation mechanisms with a few snippets of code
+* [sMiles](https://www.smilesbitcoin.com/) - app with daily bitcoin rewards for walking, shopping, playing games, completing surveys, and more
 
 ## Software bundles that include Lightning <a href="#docs-internal-guid-083d9f26-7fff-e1ef-2503-fa578ae0e176" id="docs-internal-guid-083d9f26-7fff-e1ef-2503-fa578ae0e176"></a>
 
